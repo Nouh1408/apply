@@ -1,0 +1,1 @@
+console.log("Hello, TypeScript 5.9.3 with ESNext modules and ES2024 target!");
